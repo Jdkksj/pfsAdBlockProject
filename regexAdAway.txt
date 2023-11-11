@@ -1,1 +1,18 @@
+Das ist eine Datei, wo Ausdrücke hereingeschrieben werden, die pfblockerng verweigern soll.:! ------------------------------------[UPDATE]--------------------------------------
+! 
+! -------------------------------------[INFO]---------------------------------------
+! Status: Alpha
+! ------------------------------------[FILTERS]-------------------------------------
+||.*\.adroll\.com$
+||.*\.adsrvr\.net$
+||.*\.adform\.net$
+||.*\.rubiconproject\.com$
+||.*\.criteo\.com$
+||.*\.doubleclick\.net$
+||.*\.googleadservices\.com$
+||.*\.amazon-adsystem\.com$
+||.*(ad|adv|banner|promo|sponsor|adsense|adserver|adnetwork|advertise)^
+||.*\.adform^
+||.*\.adfarm^
+||.*_w\d+h_\d+_fpx\d+\.\d+_fpy\d+\.\d+\.jpg^
 
