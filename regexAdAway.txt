@@ -4,7 +4,7 @@
 ! Status: Alpha
 ! Gebrauch: Privat
 ! ------------------------------------[FILTERS]-------------------------------------
-||.*\.adroll.*
+.*\.adroll.*
 ||.*\.adsrvr.*
 ||.*\.adform.*
 ||.*\.rubiconproject.*
